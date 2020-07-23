@@ -1,6 +1,6 @@
 name: Just-Kaggle
 author: Just-Kaggle
-baseurl: /Just-Kaggle.github.io
+baseurl: https://just-kaggle.github.io/
 description: blog for ML/DL
 github: http://www.github.com/Just-Kaggle
 twitter: http://www.twitter.com/
