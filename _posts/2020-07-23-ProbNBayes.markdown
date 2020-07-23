@@ -1,5 +1,7 @@
 ---
 title: [확률 및 통계] 조건부확률과 Bayes 정리
+date:   2020-07-23 23:26:00
+categories: probability bayes
 ---
 
 # 조건부확률과 Bayes 정리
