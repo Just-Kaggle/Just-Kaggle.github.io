@@ -40,7 +40,7 @@ categories: probability bayes
 4. Total Probability
     - P(A) = P(A1) + P(A2) + ... + P(An)
         - 서로 중복이 되지 않는 여러 배반사건들의 확률의 합으로 event A의 확률을 구하는 것을 total probability라고 함
-        - {A1, A2, ..., An} : Partition of A
+        - {A1, A2, ..., An} : Partition of S
         - P(A1) = P(A1∩A) = P(A|A1)P(A1)
         - P(A) = ∑P(A|Ai)P(Ai)
     - priori: 사전에 알고 있는 조건부 확률
